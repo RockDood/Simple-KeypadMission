@@ -1,1 +1,1 @@
-Simple KeypadMission
+#[ModKit Wiki](../../wiki)
